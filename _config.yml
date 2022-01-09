@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yudianto Sujana
-email: yudianto.sujana@gmail.com
-author: Yudianto Sujana
+title: talktokorea
+email: talktokorea@gmail.com
+author: talktokorea
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -26,12 +26,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://yest.github.io" # the base hostname & protocol for your site
+url: "https://talktokorea.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/yest/yest.github.io"
-github_user: "yest"
-github_repo: "yest.github.io"
+repo: "https://github.com/talktokorea/talktokorea.github.io"
+github_user: "talktokorea"
+github_repo: "talktokorea.github.io"
 github_branch: "master"
 
 # Optional
